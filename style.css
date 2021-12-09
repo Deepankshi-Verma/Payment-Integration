@@ -1,7 +1,7 @@
 
 /* navbar */
 #nav{
-    background-image: url("/pics/sunshine.png");
+    background-image: url("pics/sunshine.png");
     background-size: 80rem 30rem;
 }
 .navbar{
